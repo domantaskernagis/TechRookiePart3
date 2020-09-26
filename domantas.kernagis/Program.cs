@@ -4,6 +4,8 @@ using System.Runtime.InteropServices;
 
 namespace domantas.kernagis
 {
+    /*line of thought - I created a method that checks whether an egg will break in that specific floor. Im checking both eggs, 
+     * at specific floors, if one of the eggs break then we find the floor in which the egg breaks*/
     class Program
     {
         static void Main(string[] args)
