@@ -1,0 +1,13 @@
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\bin\Debug\netcoreapp3.1\domantas.kernagis.exe
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\bin\Debug\netcoreapp3.1\domantas.kernagis.deps.json
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\bin\Debug\netcoreapp3.1\domantas.kernagis.runtimeconfig.json
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\bin\Debug\netcoreapp3.1\domantas.kernagis.runtimeconfig.dev.json
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\bin\Debug\netcoreapp3.1\domantas.kernagis.dll
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\bin\Debug\netcoreapp3.1\domantas.kernagis.pdb
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.csprojAssemblyReference.cache
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.AssemblyInfoInputs.cache
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.AssemblyInfo.cs
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.csproj.CoreCompileInputs.cache
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.dll
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.pdb
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\domantas.kernagis\obj\Debug\netcoreapp3.1\domantas.kernagis.genruntimeconfig.cache

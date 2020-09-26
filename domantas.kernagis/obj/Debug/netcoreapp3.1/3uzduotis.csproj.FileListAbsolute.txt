@@ -1,0 +1,13 @@
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\bin\Debug\netcoreapp3.1\3uzduotis.exe
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\bin\Debug\netcoreapp3.1\3uzduotis.deps.json
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\bin\Debug\netcoreapp3.1\3uzduotis.runtimeconfig.json
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\bin\Debug\netcoreapp3.1\3uzduotis.runtimeconfig.dev.json
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\bin\Debug\netcoreapp3.1\3uzduotis.dll
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\bin\Debug\netcoreapp3.1\3uzduotis.pdb
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.csprojAssemblyReference.cache
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.AssemblyInfoInputs.cache
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.AssemblyInfo.cs
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.dll
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.pdb
+C:\Users\Domas\OneDrive - Kaunas University of Technology\Desktop\techRookie_uzduotis\3uzduotis\obj\Debug\netcoreapp3.1\3uzduotis.genruntimeconfig.cache
